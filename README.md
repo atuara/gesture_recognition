@@ -18,4 +18,4 @@ Each row of the CSV file represents one video and contains three main pieces of 
 
  
 
-Your task is to train a model on the 'train' folder which performs well on the 'val' folder as well (as usually done in ML projects). We have withheld the test folder for evaluation purposes - your final model's performance will be tested on the 'test' set.
+Your task is to train a model on the 'train' folder which performs well on the 'val' folder as well (as usually done in ML projects). .
